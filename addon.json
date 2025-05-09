@@ -1,0 +1,17 @@
+{
+    "title" : "permanent illness",
+    "type" : "tool",
+    "tags" : [ "fun" ],
+    "ignore": [
+        ".git/*",
+        ".github/*",
+        ".vscode/*",
+        "branding/*",
+        "*.md",
+        ".gitignore",
+        ".gitattributes",
+        ".gitmodules",
+        "node_modules",
+        "LICENSE"
+    ]
+}
